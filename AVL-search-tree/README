@@ -1,0 +1,59 @@
+/*
+Student information
+Maksymilian Mastalerz(0956502)
+mmastale@mail.uoguelph.ca
+*/
+
+/*
+Program Description
+This program is a balanced binary AVL search tree ADT implementation
+*/
+
+/*
+How to compile
+To compile this code:
+run: make
+*/
+
+/*
+How to run
+
+IMPORTANT:
+IMPORTANT: Some of my functions use the <math.h> library which requires -lm when making. Please include this if you aren't using my make file.
+IMPORTANT:
+
+make
+./bin/testing
+*/
+
+/*
+Make options
+make
+make clean
+make doxygen
+make cppcheck
+*/
+
+/*
+Project organization
+On the lab assignment page it said "Do not change the names of the files.". I was worried that if I created a new file to better organize 
+this project it would interfere with your testing module. If I was wrong to assume so please don't dock me too many marks. Reorganizing this
+project would only take 5 minutes and I am 100% capable of doing this simple task. Please email me if you wish to discuss this more in depth.
+*/
+
+/*
+Limitations
+- None
+*/
+
+/*
+Known issues
+None known, no memory leaks
+Some style problems due to the rigorous test cases
+*/
+
+/*
+Complexity Analysis
+===================
+N/A for the lab. 
+*/

@@ -1,0 +1,54 @@
+/*
+Student information
+Maksymilian Mastalerz(0956502)
+mmastale@mail.uoguelph.ca
+*/
+
+/*
+Program Description
+This program is a Heap ADT implementation
+*/
+
+/*
+How to compile
+To compile this code:
+run: make
+*/
+
+/*
+How to run
+
+IMPORTANT:
+IMPORTANT: Some of my functions use the <math.h> library which requires -lm when making. Please include this if you aren't using my make file.
+IMPORTANT:
+
+make
+./bin/testing
+*/
+
+/*
+Make options
+make
+make testing
+make clean
+make doxygen
+make cppcheck
+*/
+
+/*
+Limitations
+- None
+*/
+
+/*
+Known issues
+None known, no memory leaks
+Passed cppcheck
+*/
+
+
+/*
+Complexity Analysis
+===================
+There was no requirement of a complexity analysis for this lab :)
+*/

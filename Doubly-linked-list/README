@@ -1,0 +1,32 @@
+/*
+Student information
+Maksymilian Mastalerz(0956502)
+mmastale@mail.uoguelph.ca
+*/
+
+/*
+Program Description
+This program implements a doubly linked list API. There is a test that demos all functionality
+*/
+
+/*
+How to compile
+To compile this code:
+run: make
+*/
+
+/*
+Make options
+make
+make clean
+*/
+
+/*
+Limitations
+This data type only handles integers
+*/
+
+/*
+Known issues
+Memory leak of 24 byes when using insertSorted() in non-head insertion
+*/

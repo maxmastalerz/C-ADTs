@@ -1,0 +1,34 @@
+/*
+Student information
+Maksymilian Mastalerz(0956502)
+mmastale@mail.uoguelph.ca
+*/
+
+/*
+Program Description
+This is an API for a hash table. It includes a testing file
+*/
+
+/*
+How to compile
+To compile this code:
+run: make
+*/
+
+/*
+Make options
+make
+make clean
+make doxygen
+make cppcheck
+*/
+
+/*
+Limitations
+Requires changing some code to use types beside integers, simple fix though.
+*/
+
+/*
+Known issues
+None known, no memory leaks
+*/
